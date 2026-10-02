@@ -1,0 +1,171 @@
+{
+  "name": "Miguel Mendes Ferreira",
+  "tagline": "Textile agent in northern Portugal",
+  "lang": "en",
+  "description": "Sourcing, collection development and production management between European brands and Portuguese factories.",
+  "preset": "editorial",
+  "fonts": "system",
+  "noindex": true,
+  "tokens": {
+    "colors": {
+      "accent": "#845E3F"
+    }
+  },
+  "logo": {
+    "src": "img/logo.png",
+    "alt": "Miguel Mendes Ferreira"
+  },
+  "nav_cta": {
+    "label": "Get in touch",
+    "href": "#contact"
+  },
+  "business": {
+    "type": "ProfessionalService",
+    "email": "hello@miguelmendesferreira.eu",
+    "address": {
+      "city": "Santo Tirso",
+      "country": "PT"
+    }
+  },
+  "footer": {
+    "text": "Textile sourcing and production, from Santo Tirso, Portugal."
+  },
+  "blocks": [
+    {
+      "type": "hero",
+      "eyebrow": "Textile agent, Santo Tirso, Portugal",
+      "headline": "I connect European brands with the Portuguese factories that fit them",
+      "subhead": "Sourcing, collection development and production management for outdoor and casual apparel, handled by one person who is on the factory floor.",
+      "cta": {
+        "label": "Start a conversation",
+        "href": "#contact"
+      },
+      "cta_secondary": {
+        "label": "See what I do",
+        "href": "#services"
+      }
+    },
+    {
+      "type": "proof-bar",
+      "label": "Certifications I work with",
+      "logos": [
+        {
+          "name": "GOTS"
+        },
+        {
+          "name": "OEKO-TEX"
+        },
+        {
+          "name": "bluesign"
+        },
+        {
+          "name": "GRS"
+        }
+      ]
+    },
+    {
+      "type": "features",
+      "id": "services",
+      "nav_label": "Services",
+      "title": "What I do for brands",
+      "variant": "rows",
+      "items": [
+        {
+          "title": "Sourcing consultancy",
+          "text": "I match your product, volumes and certification needs to the right factory in the Braga, Guimarães and Viana do Castelo corridor."
+        },
+        {
+          "title": "Collection development",
+          "text": "From tech pack to approved prototype: fabrics, trims, cost sheets and sampling rounds, followed in person."
+        },
+        {
+          "title": "Production management",
+          "text": "Orders tracked from confirmation to shipment, with one contact who speaks both the brand's and the factory's language."
+        },
+        {
+          "title": "AI workshops for textile companies",
+          "text": "Practical training for teams in the Portuguese textile and clothing industry, online or in person."
+        }
+      ]
+    },
+    {
+      "type": "features",
+      "id": "work",
+      "nav_label": "Work",
+      "tone": "surface",
+      "title": "Selected work",
+      "intro": "A few recent projects. Client names are shared on request.",
+      "variant": "cards",
+      "columns": "2",
+      "items": [
+        {
+          "title": "Coastal leisurewear, SS27",
+          "text": "A full collection taken from brief to prototypes with a production partner in Asia."
+        },
+        {
+          "title": "Technical golf polo",
+          "text": "Costed and produced with a Portuguese knitwear factory for a sportswear brand."
+        },
+        {
+          "title": "Factory visits for an outdoor brand",
+          "text": "Introductions and on-site visits to two Portuguese manufacturers for a European outdoor label."
+        },
+        {
+          "title": "Cost sheets for outdoor garments",
+          "text": "Detailed cost breakdowns for pile jackets and polos, with recommended Portuguese manufacturing partners."
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "id": "about",
+      "nav_label": "About",
+      "title": "About me",
+      "body": "I am an independent textile agent based in Santo Tirso, in the heart of Portugal's textile and clothing industry.\n\nI work as the link between European brands and the factories that make their product. My focus is outdoor and casual apparel, and I know the manufacturers of the northern corridor first hand.\n\nAlongside the Portuguese factories, I work with production partners in Asia for workwear, outdoor and casual lines.",
+      "points": [
+        "Outdoor, performance and casual apparel",
+        "Portuguese factories, plus partners in Asia",
+        "Certified trainer for industry workshops"
+      ],
+      "panel": {
+        "value": "15",
+        "label": "editions of From the Factory Floor, my LinkedIn newsletter for brands."
+      }
+    },
+    {
+      "type": "steps",
+      "id": "how",
+      "title": "How a project runs",
+      "items": [
+        {
+          "title": "Brief",
+          "text": "You tell me the product, target price, volumes and timing."
+        },
+        {
+          "title": "Match",
+          "text": "I shortlist the factories that fit and introduce you."
+        },
+        {
+          "title": "Sample and cost",
+          "text": "Prototypes and cost sheets, revised until both sides agree."
+        },
+        {
+          "title": "Produce",
+          "text": "I follow the order on site until it ships."
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "id": "contact",
+      "nav_label": "Contact",
+      "title": "Tell me what you want to make",
+      "text": "Send a short note about your product and I will reply with the next step.",
+      "email": "hello@miguelmendesferreira.eu",
+      "address": "Santo Tirso, Portugal",
+      "button": "Email me",
+      "subject": "Project enquiry"
+    }
+  ],
+  "custom_css": ".brand{display:inline-flex;align-items:center;gap:.75rem}.brand img{height:2.75rem;width:auto}.brand::after{content:'Miguel Mendes Ferreira';font-family:var(--font-heading);font-size:1.15rem;color:var(--text)}@media(max-width:26rem){.brand::after{font-size:1rem}}"
+}
